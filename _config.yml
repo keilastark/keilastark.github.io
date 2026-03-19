@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "b5bddb5a8736c325.jpeg"
   bio              : "Simons Postdoctoral Fellow in Marine Microbial Ecology"
   location         : 
-  employer         : "Kellogg Biological Station, Michigan State University"
+  employer         : "Kellogg Biological Station, MSU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xkAgcC8AAAAJ&hl=en"
   email            : 
